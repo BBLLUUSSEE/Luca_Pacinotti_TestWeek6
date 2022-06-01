@@ -1,0 +1,5 @@
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.Core\obj\Debug\net6.0\Esercitazione.Week6.Core.csproj.AssemblyReference.cache
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.Core\obj\Debug\net6.0\Esercitazione.Week6.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.Core\obj\Debug\net6.0\Esercitazione.Week6.Core.AssemblyInfoInputs.cache
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.Core\obj\Debug\net6.0\Esercitazione.Week6.Core.AssemblyInfo.cs
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.Core\obj\Debug\net6.0\Esercitazione.Week6.Core.csproj.CoreCompileInputs.cache

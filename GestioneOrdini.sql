@@ -1,0 +1,18 @@
+CREATE DATABASE GestioneOrdini;
+
+USE GestioneOrdini;
+
+CREATE TABLE Cliente(
+	id INT PRIMARY KEY IDENTITY(1,1),
+	CodiceCliente VARCHAR(50) NOT NULL,
+	Nome VARCHAR(20) NOT NULL,
+	Cogonme VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Ordini(
+	id INT PRIMARY KEY IDENTITY(100,1),
+	DataOrdine DATE NOT NULL,
+	CodiceOrdine VARCHAR(50) NOT NULL,
+	CodiceProdotto VARCHAR(50) NOT NULL,
+	Importo DECIMAL(5,2)
+);

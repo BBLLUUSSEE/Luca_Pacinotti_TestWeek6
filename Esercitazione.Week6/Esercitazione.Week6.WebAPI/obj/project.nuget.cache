@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjRuxxryu2wX0s76cOJ2EUz45cRrnld4xvXU64uPC9Y5k/qeH0EOcD7R4tuUXc1kz97b5LBDACxkpbzKDuIpsg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\luca.pacinotti\\Desktop\\Esercitazione_Week6\\Esercitazione.Week6\\Esercitazione.Week6.WebAPI\\Esercitazione.Week6.WebAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Esercitazione.Week6.Core is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Esercitazione.Week6.Core supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Esercitazione.Week6.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\bin\Debug\Esercitazione.Week6.WCF.dll.config
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\bin\Debug\Esercitazione.Week6.WCF.dll
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\bin\Debug\Esercitazione.Week6.WCF.pdb
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\obj\Debug\Esercitazione.Week6.WCF.csproj.AssemblyReference.cache
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\obj\Debug\Esercitazione.Week6.WCF.csproj.CoreCompileInputs.cache
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\obj\Debug\Esercitazione.Week6.WCF.dll
+C:\Users\luca.pacinotti\Desktop\Esercitazione_week5\Tickets\Esercitazione.Week6.WCF\Esercitazione.Week6.WCF\obj\Debug\Esercitazione.Week6.WCF.pdb

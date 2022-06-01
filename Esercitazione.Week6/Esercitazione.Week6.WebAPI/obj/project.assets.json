@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esercitazione.Week6.Core/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Esercitazione.Week6.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Esercitazione.Week6.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esercitazione.Week6.Core/1.0.0": {
+      "type": "project",
+      "path": "../Esercitazione.Week6.Core/Esercitazione.Week6.Core.csproj",
+      "msbuildProject": "../Esercitazione.Week6.Core/Esercitazione.Week6.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Esercitazione.Week6.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\luca.pacinotti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\luca.pacinotti\\Desktop\\Esercitazione_Week6\\Esercitazione.Week6\\Esercitazione.Week6.WebAPI\\Esercitazione.Week6.WebAPI.csproj",
+      "projectName": "Esercitazione.Week6.WebAPI",
+      "projectPath": "C:\\Users\\luca.pacinotti\\Desktop\\Esercitazione_Week6\\Esercitazione.Week6\\Esercitazione.Week6.WebAPI\\Esercitazione.Week6.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\luca.pacinotti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luca.pacinotti\\Desktop\\Esercitazione_Week6\\Esercitazione.Week6\\Esercitazione.Week6.WebAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\luca.pacinotti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\luca.pacinotti\\Desktop\\Esercitazione_Week6\\Esercitazione.Week6\\Esercitazione.Week6.Core\\Esercitazione.Week6.Core.csproj": {
+              "projectPath": "C:\\Users\\luca.pacinotti\\Desktop\\Esercitazione_Week6\\Esercitazione.Week6\\Esercitazione.Week6.Core\\Esercitazione.Week6.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Esercitazione.Week6.Core is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Esercitazione.Week6.Core supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Esercitazione.Week6.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
